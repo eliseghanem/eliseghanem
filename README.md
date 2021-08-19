@@ -8,7 +8,7 @@
 <! -- https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif -->
 
 💡 I’m currently working on developing the MVP of a startup.<br>
-🦾 I’m currently learning ROS and PLC programming.<br>
+🦾 I’m also learning about ROS and PLC programming.<br>
 🤝 I’m looking to collaborate on innovative and engaging projects.<br>
 📫 How to reach me: elise.ghanem@lau.edu <br>
 ⚡ Fun fact: I speak 4 languages and aspire to try food from every country in the world! <br>
