@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
 <! -- https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif -->
 
-💡  My latest projects include a ball collecter and sorter robot and developing the MVP of a startup.<br>
+💡  My latest projects include a teleoperated robotic arm and developing the MVP of a startup.<br>
 🦾 I’m also learning about Control Theory and ROS for automation.<br>
 🤝 I’m looking to collaborate on innovative and engaging projects.<br>
 📫 How to reach me: elise.ghanem@lau.edu <br>
