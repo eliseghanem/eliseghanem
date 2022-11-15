@@ -7,7 +7,6 @@
 🦾 I’m also learning about Control Theory and ROS for automation.<br>
 🤝 I’m looking to collaborate on innovative and engaging projects.<br>
 📫 How to reach me: elise.ghanem@lau.edu <br>
-⚡ Fun fact: I speak 4 languages and aspire to try food from every country in the world! <br>
 
 **👋 Connect with me:** [LinkedIn](https://www.linkedin.com/in/elise-ghanem/)
 <br />
