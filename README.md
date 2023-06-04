@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
 <! -- https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif -->
 
-💡  My latest projects include a teleoperated robotic arm and developing the MVP of a startup.<br>
-🦾 I’m also learning about Control Theory and ROS for automation.<br>
-🤝 I’m looking to collaborate on innovative and engaging projects.<br>
+💡  My latest projects include a voice-controlled manipulator and a teleoperated robotic arm.<br>
+🦾 I’m also experimenting with ROS and Machine Learning.<br>
+🤝 I’m always looking to collaborate on innovative projects.<br>
 📫 How to reach me: elise.ghanem@lau.edu <br>
 
 **👋 Connect with me:** [LinkedIn](https://www.linkedin.com/in/elise-ghanem/)
@@ -14,6 +14,7 @@
 #### **Languages and Tools:**
 
 <img align="left" alt="Python" width="26px" style="margin-right: 7px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="ROS" width="26px" style="margin-right: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/723px-Ros_logo.svg.png?20210705091420" />
 <img align="left" alt="Java" width="26px" style="margin-right: 7px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="HTML5" width="26px" style="margin-right: 7px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" style="margin-right: 7px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
