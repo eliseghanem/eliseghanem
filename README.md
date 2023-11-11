@@ -6,7 +6,7 @@
 💡  My latest projects include a voice-controlled manipulator and a teleoperated robotic arm.<br>
 🦾 I’m also experimenting with ROS and Machine Learning.<br>
 🤝 I’m always looking to collaborate on innovative projects.<br>
-📫 How to reach me: elise.ghanem@lau.edu <br>
+📫 How to reach me: eliseghanem01@gmail.com <br>
 
 **👋 Connect with me:** [LinkedIn](https://www.linkedin.com/in/elise-ghanem/)
 <br />
