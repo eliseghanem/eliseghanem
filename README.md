@@ -3,8 +3,7 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
 <! -- https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif -->
 
-💡  My latest projects include a voice-controlled manipulator and a teleoperated robotic arm.<br>
-🦾 I’m also experimenting with ROS and Machine Learning.<br>
+💡  My latest projects include a piano-playing robotic arm and an NLP manipulator in ROS.<br>
 🤝 I’m always looking to collaborate on innovative projects.<br>
 📫 How to reach me: eliseghanem01@gmail.com <br>
 
