@@ -1,4 +1,4 @@
-### I'm a Mechatronics Engineering Student, passionate about creating impact through tech.
+### I'm a Mechatronics Engineer, passionate about creating impact through tech.
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
 <! -- https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif -->
